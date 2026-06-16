@@ -47,6 +47,8 @@
 
 
 \-  "./" use this to execute binary file.
+./bandit20-do/etc/bandit_pass/bandit20
+
 
 
 
