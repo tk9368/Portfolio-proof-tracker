@@ -38,7 +38,7 @@
 
 
 
-\-  Solved Bandit Level 19 → 20. 
+\-  Solved Bandit Level 19 → 20.
 
 
 
@@ -47,7 +47,8 @@
 
 
 \-  "./" use this to execute binary file.
-./bandit20-do/etc/bandit_pass/bandit20
+./bandit20-do/etc/bandit\_pass/bandit20
+
 
 
 
